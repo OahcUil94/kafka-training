@@ -142,3 +142,7 @@ Note: This will have no impact if delete.topic.enable is not set to true.
 2. kafka指定topic的副本的时候，一定要小于等于broker数量
 
 ## docker-compose安装zk和kafka集群
+
+## 参考资料
+
+- [https://blog.csdn.net/tflasd1157/article/details/81985722](https://blog.csdn.net/tflasd1157/article/details/81985722)
